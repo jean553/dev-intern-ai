@@ -1,14 +1,18 @@
 # Dev Intern AI
 
-**Send Slack messages, get Merge Requests! :rocket:**
+<p align=center><strong>Send Slack messages, get Merge Requests! :rocket:</strong></p>
 
-**Go to [dev-intern-ai.com](https://dev-intern-ai.com) to start**
+<p align=center><strong>Go to [dev-intern-ai.com](https://dev-intern-ai.com) to start</strong></p>
+
+<p align=center><strong>:loudspeaker: Tests and feedbacks more than welcome ! (and actually needed and expected :stuck_out_tongue:) :loudspeaker:</strong></p>
+
+<p align=center><strong>Contact me at contact@dev-intern-ai.com and I will help you configure the tool !</strong></p>
 
 ![main image](image.png)
 
 ## Connect your GitLab project
 
-Register with **Dev Intern AI** and set your GitLab project ID. Invite the `dev-intern-ai` GitLab user as a *developer* of your project and... voila! You are ready to have your AI developer create Merge Requests based on your instructions.
+Register with **Dev Intern AI** and set your GitLab or GitHub project ID. Invite the `dev-intern-ai` GitLab user as a *developer* of your project and... voila! You are ready to have your AI developer create Merge Requests based on your instructions.
 
 ## Send Slack messages 
 
@@ -26,8 +30,6 @@ Request changes from your developer by adding comments directly on the provided 
 
 ## How to register?
 
-**Dev Intern AI** currently works exclusively with Slack. Simply go [here](https://dev-intern-ai.com) and link your workspace.
+**Dev Intern AI** currently works exclusively with Slack. Simply go [here](https://dev-intern-ai.com) and link your workspace. You can also join the public workspace.
 
 Please send an email to `contact@dev-intern-ai.com` to enable your account.
-
-:warning: Dev Intern AI is an early-stage project. Please read the privacy policy, terms of use, and how the linked codebase is handled carefully.
